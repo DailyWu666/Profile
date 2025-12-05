@@ -1,6 +1,6 @@
 # DailyWu666 / 个人简介
 
-[![Repository](https://img.shields.io/badge/repo-DailyWu666/123-blue?logo=github)](https://github.com/DailyWu666/个人简介)
+[![Repository](https://img.shields.io/badge/repo-DailyWu666/个人简介-blue?logo=github)](https://github.com/DailyWu666/个人简介)
 [![License](https://img.shields.io/badge/license-Unlicense-lightgrey)](#license)
 [![Last Updated](https://img.shields.io/badge/last--updated-2025--12--05-green)](#)
 
