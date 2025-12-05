@@ -1,6 +1,6 @@
-# whtthw666 / 123
+# DailyWu666 / 123
 
-[![Repository](https://img.shields.io/badge/repo-whtthw666/123-blue?logo=github)](https://github.com/whtthw666/123)
+[![Repository](https://img.shields.io/badge/repo-DailyWu666/123-blue?logo=github)](https://github.com/DailyWu666/123)
 [![License](https://img.shields.io/badge/license-Unlicense-lightgrey)](#license)
 [![Last Updated](https://img.shields.io/badge/last--updated-2025--12--05-green)](#)
 
@@ -31,7 +31,7 @@
 
 克隆仓库并开始修改：
 ```bash
-git clone https://github.com/whtthw666/123.git
+git clone https://github.com/DailyWu666/123.git
 cd 123
 # 编辑 about.html 或添加新的项目文件
 ```
@@ -62,7 +62,7 @@ git push origin main
 
 ## 联系方式
 
-- GitHub: https://github.com/whtthw666
+- GitHub: https://github.com/DailyWu666
 - 邮箱: scw333888@163.com (请替换为真实邮箱)
 
 ---
